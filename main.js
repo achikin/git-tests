@@ -17,7 +17,7 @@ var mark_length
 var arrow_canvas_element
 var arrow_canvas_context
 function setup_clock(width, height) {
-	mark_length = 20
+	mark_length = 24
 	hours_count = 12
 	canvas_center_x = width / 2
 	canvas_center_y = height / 2
