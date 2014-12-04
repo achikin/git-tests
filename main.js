@@ -1,5 +1,6 @@
 var canvas_width
 var canvas_height
+
 var canvas_center_x
 var canvas_center_y
 
